@@ -1,1 +1,3 @@
-Obsidian-GDCT
+# GDCT
+
+![](gdct.png)
